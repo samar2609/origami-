@@ -1,0 +1,28 @@
+h1{
+color: lime;
+}
+
+
+.header{
+background-color: magenta;
+justify-content:space-evenly;
+display: flex;
+}
+
+.grid{
+justify-content: space-evenly;
+background-color: coral;
+display: flex;
+ flex-wrap:wrap;
+}
+
+
+
+
+p,h2{
+text-align: center;
+}
+
+body{
+background-color: brown;
+}
